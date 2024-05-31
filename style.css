@@ -1,0 +1,12 @@
+.heading1{
+    color: darkgray
+}
+
+.spiderimg{
+    width: 200px;
+}
+
+.spiderimg:hover{
+    transform: rotate(180deg);
+}
+
